@@ -1,0 +1,12 @@
+Enter the file name to read from:
+Error: No command name following a command prompt in line 4
+Error: Unrecognizable command name ">regular" in line 5
+Error: Unrecognizable command name "reg" in line 11
+
+Total lines: 16
+Commented lines: 1
+Command lines: 5
+Bold commands: 3
+Italic commands: 2
+Regular commands: 0
+Underline commands: 0
